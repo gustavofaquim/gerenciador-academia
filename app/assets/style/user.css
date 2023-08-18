@@ -1,0 +1,33 @@
+
+
+
+.list-user .card{
+   margin-top: 30px;
+}
+
+.user-container{
+   margin-top: 80px;
+}
+
+.card-user-list p{
+   margin-top: 0;    
+   margin-bottom: 0; 
+}
+
+.card-user-list span{
+   font-weight: bold;
+}
+
+
+.actions-user{
+   display: inline;
+   float: right;
+   text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   background-color: rgb(242, 242, 244);
+}
+
+.actions-user i{
+   padding: 5px;
+}

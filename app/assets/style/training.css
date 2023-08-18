@@ -1,0 +1,42 @@
+
+.list-training {
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.card-training{
+    margin: auto;
+    margin-top: 50px;
+}
+
+.title-training{
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+.actions-training{
+    display: inline;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(242, 242, 244);
+}
+
+.actions-training i{
+    padding: 10px;
+}
+
+
+.container-edit-training{
+    max-width: 900px;
+    border: 1px solid red;
+}
+
+.training-img{
+    max-width: -webkit-fill-available;
+}
+
+.btn-update{
+    margin-top: 20px;
+    font-size: 1.3em;
+}

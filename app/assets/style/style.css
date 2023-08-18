@@ -1,0 +1,93 @@
+
+
+.btn-add{
+    margin-top: 30px;
+    font-size: 2em;
+}
+
+
+.search-bar input{
+    padding: 10px;
+    width: 500px;
+}
+
+
+.card-search{
+    background-color: #fff;
+    padding: 15px;
+    border:none;
+    margin-top: 40px;
+}
+  
+.input-box{
+    position: relative;
+}
+
+.input-box form input{
+    font-size: 1.5em;
+    padding: 10px;
+}
+  
+.input-box i {
+    position: absolute;
+    right: 13px;
+    top:15px;
+    color:#ced4da;
+  
+}
+
+.search-bar button{
+    padding: 10px;
+    width: 100px;
+    border-radius: 2px;
+}
+
+.container-menu{
+    margin-top: 12%;
+    text-align: center;
+}
+
+.container-menu .card{
+   padding: 90px 20px 90px 20px;
+}
+
+.title-menu{
+    color: #FFF;
+    font-weight: bold;
+    font-size: 2.3em;
+    box-shadow: 4px 6px 26px -12px rgba(0,0,0,0.75);
+   
+}
+
+#card-user{
+    background-image: url("../img/alunos.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#card-training{
+    background-image: url("../img/treinos.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+a{
+    text-decoration: none !important;
+}
+a:link {
+    text-decoration: none;
+}
+   
+a:hover {
+    text-decoration: underline;
+}
+
+.nav{
+    background-color: #15202b;
+}
+.nav-item a{
+    font-size: 2em;
+    color: #FFF
+}
